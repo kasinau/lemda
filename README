@@ -1,1 +1,2 @@
-This file was created by JetBrains PhpStorm 5.0.4 for binding GitHub repository
+There is need to give write permissions to this path and teh script will
+create an error file to write in it errors in working with database
