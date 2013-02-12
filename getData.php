@@ -21,7 +21,7 @@ $i = 1;
         <th class="table">Gamma</th>
     </tr>
 <?php foreach ($tableData as $data): ?>
-    <tr id="row<?php echo $i ?>">
+    <tr>
         <td class="table">
             <?php echo $data['Id'] ?>
         </td>
