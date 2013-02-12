@@ -1,0 +1,16 @@
+There is a table:
+table name = lemda_table
+db name = lemda_db
+==========================
+Id   |   Alpha    |  Beta      |   Gamma
+==========================
+1   | record-1   | record-1  |  record-1
+2   | record-2   | record-2  |  record-2
+3   | record-3   | record-3  |  record-3
+.... .............      .........     ...........
+
+** Write a php script to "INSERT" the records in the table
+** Write a php/html script to "Select" all records in table format as given above.
+** Write a JQuery script to color "Red" the first row of table.
+** Write a JQuery script to color "Blue" the second row of table
+** Write a JQuery script to color "Green" the third row of table
